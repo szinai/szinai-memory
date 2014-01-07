@@ -1,0 +1,4 @@
+szinai-memory
+=============
+
+uložiště
